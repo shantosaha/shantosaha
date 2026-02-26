@@ -92,20 +92,20 @@
 ## 📊 My Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantosaha&theme=tokyonight" width="750" alt="stats graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantosaha&theme=tokyonight" width="750" alt="stats graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantosaha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantosaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shantosaha&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantosaha&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantosaha&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantosaha&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 <br/>
