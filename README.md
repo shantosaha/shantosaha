@@ -98,8 +98,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantosaha&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantosaha&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=shantosaha&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=shantosaha&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
 </div>
 
 <br/>
