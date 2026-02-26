@@ -12,53 +12,83 @@
 </div>
 
 <div align="center">
-  <img src="terminal.png" alt="Shanto Terminal" width="80%" />
+  <img src="terminal.png" alt="Shanto Terminal" width="85%" />
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="mailto:shantosaha047@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/shantosaha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+## 📬 About me -- Contact
+[![wakatime](https://wakatime.com/badge/user/shantosaha.svg)](https://wakatime.com/@shantosaha)
+<img alt="Update README" src="https://img.shields.io/badge/Update%20README-passing-success?style=flat-square&logo=github&labelColor=161b22"/>
 
-<br/>
+- **Email**: [shantosaha047@gmail.com](mailto:shantosaha047@gmail.com)
+- **GitHub**: [github.com/shantosaha](https://github.com/shantosaha)
 
-## 👨‍💻 About Me
-
-🤖 I love learning about and building **Software** and **Machine Learning** systems.
-💻 I am constantly seeking out new technologies and learning about them, recently exploring **Networking**.
-🌱 I’m currently diving deep into **Flutter** and **Python**.
-🤝 I am open to collaborating with others on future projects, particularly those related to machine learning or areas that I have yet to explore.
-📫 Feel free to contact me at **[shantosaha047@gmail.com](mailto:shantosaha047@gmail.com)**.
+> [!IMPORTANT]
+> Don't take urself too seriously, we're all pretty dumbs here.
 
 ---
 
-## 🛠️ Techs I Use / Am Learning
+## 🛠️ Things I code with
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="60" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="60" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="60" alt="tensorflow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="60" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="60" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="60" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" width="60" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50" width="60" alt="git logo" />
-</div>
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 🎁 Open source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/shantosaha/Antigravity-Seamless-Pipeline"><b>Antigravity-Seamless-Pipeline</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shantosaha/Antigravity-Seamless-Pipeline?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shantosaha/Antigravity-Seamless-Pipeline?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shantosaha/Antigravity-Seamless-Pipeline?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shantosaha/Antigravity-Seamless-Pipeline?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/shantosaha/awesome-n8n-templates"><b>Awesome n8n Templates</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shantosaha/awesome-n8n-templates?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shantosaha/awesome-n8n-templates?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shantosaha/awesome-n8n-templates?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shantosaha/awesome-n8n-templates?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/shantosaha/Claw-Master-V3.2"><b>Claw-Master-V3.2</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shantosaha/Claw-Master-V3.2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shantosaha/Claw-Master-V3.2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shantosaha/Claw-Master-V3.2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shantosaha/Claw-Master-V3.2?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 📊 My Stats
 
 <div align="center">
-  <!-- AbTrax style profile detail summary -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantosaha&theme=tokyonight" width="750" alt="stats graph"/>
 </div>
 
@@ -67,6 +97,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shantosaha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE" alt="Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantosaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE" alt="Top Langs" height="180px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantosaha&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE" alt="Streak Stats" />
 </div>
 
 <br/>
