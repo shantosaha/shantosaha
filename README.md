@@ -11,6 +11,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="terminal.png" alt="Shanto Terminal" width="80%" />
+</div>
+
 <br/>
 
 <div align="center">
