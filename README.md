@@ -21,7 +21,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-[![wakatime](https://wakatime.com/badge/user/shantosaha.svg)](https://wakatime.com/@shantosaha)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Profile-0078D4?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@shantosaha)
 <img alt="Update README" src="https://img.shields.io/badge/Update%20README-passing-success?style=flat-square&logo=github&labelColor=161b22"/>
 
 - **Email**: [shantosaha047@gmail.com](mailto:shantosaha047@gmail.com)
