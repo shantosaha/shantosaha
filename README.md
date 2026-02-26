@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="terminal.png" alt="Shanto Terminal" width="85%" />
+  <img src="about_shanto.svg" alt="Shanto Terminal" width="100%" />
 </div>
 
 <br/>
