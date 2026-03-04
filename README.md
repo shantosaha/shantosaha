@@ -24,7 +24,7 @@
 [![WakaTime](https://img.shields.io/badge/WakaTime-Profile-0078D4?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@shantosaha)
 <img alt="Update README" src="https://img.shields.io/badge/Update%20README-passing-success?style=flat-square&logo=github&labelColor=161b22"/>
 
-- **Email**: [shantosaha047@gmail.com](mailto:shantosaha047@gmail.com)
+- **Email**: [shantasahaj@gmail.com](mailto:shantasahaj@gmail.com)
 - **GitHub**: [github.com/shantosaha](https://github.com/shantosaha)
 
 > [!IMPORTANT]
